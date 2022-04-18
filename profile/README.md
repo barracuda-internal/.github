@@ -1,3 +1,1 @@
-# Barracuda Networks Internal
-
-[For Usage and Instructions see](https://wikihub.cudawork.com/x/lXbBBg)
+# Barracuda Networks Internal - [Usage and Instructions](https://wikihub.cudawork.com/x/lXbBBg)
