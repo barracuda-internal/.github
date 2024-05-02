@@ -1,1 +1,1 @@
-# Barracuda Networks Internal - [Usage and Instructions](https://wikihub.cudawork.com/pages/viewpage.action?spaceKey=GIT&title=GitHub+-+User+Guide)
+# Barracuda Networks Internal - [Usage and Instructions](https://cuda.atlassian.net/wiki/spaces/GIT/pages/93126785/GitHub+-+User+Guide)
