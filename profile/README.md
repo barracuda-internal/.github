@@ -1,1 +1,3 @@
-# Barracuda Networks Internal - [Usage and Instructions](https://cuda.atlassian.net/wiki/spaces/GIT/pages/93126785/GitHub+-+User+Guide)
+# [Barracuda Networks](https://www.barracuda.com/) Internal
+
+We exist to protect and support our customers for life.
